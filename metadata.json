@@ -1,0 +1,7 @@
+{
+  "name": "Farmer ID Card Generator MAIN",
+  "description": "Create a high-resolution, 2-page unofficial Farmer ID card with Marathi support, photo upload, and automated ID generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
